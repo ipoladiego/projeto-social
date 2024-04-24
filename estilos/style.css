@@ -25,7 +25,7 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone.png') no-repeat;  
+    background: url(../imagens/frame-iphone.png) no-repeat;  
 }
 iframe#tela{
     position:inherit;
